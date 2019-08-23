@@ -14,13 +14,13 @@ Conteúdo da disciplina de programação orientada à objetos com java.
 
 -   Conceitos: Classes, objetos, atributos, métodos e construtores
 -   Código da aula: 
--   Exercícios: 
+-   Exercícios: [Lista de exercícios de java básico](https://github.com/kleberandrade/aulas-java/blob/master/Exercicios/Lista%20de%20Exercicios%20JAVA%20Basico.pdf)
 
 ## Aula 2. 
 
 -   Conceitos: 
 -   Código da aula: 
--   Exercícios: 
+-   Exercícios: [Lista de exercícios de java orientada a objetos](https://github.com/kleberandrade/aulas-java/blob/master/Exercicios/Lista%20de%20Exercicios%20JAVA%20Basico%20POO.pdf)
 
 ## Material Extra
 
