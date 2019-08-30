@@ -16,11 +16,13 @@ Conteúdo da disciplina de programação orientada à objetos com java.
 -   Código da aula: 
 -   Exercícios: [Lista de exercícios de java básico](https://github.com/kleberandrade/aulas-java/blob/master/Exercicios/Lista%20de%20Exercicios%20JAVA%20Basico.pdf)
 
-## Aula 2. 
+## Aula 2. Atributos e Métodos estáticos
 
 -   Conceitos: 
 -   Código da aula: 
 -   Exercícios: [Lista de exercícios de java orientada a objetos](https://github.com/kleberandrade/aulas-java/blob/master/Exercicios/Lista%20de%20Exercicios%20JAVA%20Basico%20POO.pdf)
+
+## Aula 3. Herança e Polimorfismo
 
 ## Material Extra
 
